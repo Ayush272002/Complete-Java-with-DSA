@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Enter the numbe in the array ");
+        System.out.println("Enter the number in the array ");
         Scanner x = new Scanner(System.in);
         int n = x.nextInt();
         System.out.println("Start inputting the values in ascending order");
