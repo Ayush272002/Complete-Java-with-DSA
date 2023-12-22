@@ -63,6 +63,11 @@ public class SinglyLinkedList
     public void print()
     {
         Node temp = head;
+        if(head == null)
+        {
+            System.out.println("List is empty");
+            return;
+        }
         while(temp != null)
         {
             System.out.print(temp.data + " ");
@@ -75,7 +80,9 @@ public class SinglyLinkedList
     {
         if (position == 1) {
             // deleting first or start node
+            Node temp = head;
             head = head.next;
+            temp.next = null;
         }
         else
         {

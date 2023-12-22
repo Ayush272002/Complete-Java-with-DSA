@@ -15,6 +15,12 @@ public class DoublyLinkedList {
     void print()
     {
         Node temp = head;
+
+        if(head == null)
+        {
+            System.out.println("List is empty");
+            return;
+        }
         while(temp != null)
         {
             System.out.print(temp.data + " ");
@@ -74,38 +80,46 @@ public class DoublyLinkedList {
 
     }
 
-    void deleteAtPosition(int position) {
-        if (position == 1) {
-            if (head != null) {
-                Node temp = head;
-                head = temp.next;
-
-                if (head != null) {
-                    head.prev = null;
-                }
-
-                temp.next = null;
+    void deleteAtPosition(int position)
+    {
+        if(position > getLength())
+        {
+            System.out.println("Invalid position ");
+            return;
+        }
+        if (position == 1 && head != null) {
+            // deleting the first node
+            Node temp = head;
+            if (temp.next != null) {
+                temp.next.prev = null;
             }
-        } else {
+            head = temp.next;
+            temp.next = null;
+        }
+        else
+        {
             Node curr = head;
             Node prev = null;
-
-            for (int i = 1; i < position && curr != null; i++) {
+            // Traverse to the node at the specified position
+            for (int i = 1; curr != null && i < position; i++) {
                 prev = curr;
                 curr = curr.next;
             }
 
+            // Check if the specified position is valid
             if (curr != null) {
-                if (curr.next != null) {
-                    curr.next.prev = prev;
-                }
-
-                prev.next = curr.next;
                 curr.prev = null;
-                curr.next = null;
+                if (prev != null) {
+                    prev.next = curr.next;
+                    if (curr.next != null) {
+                        curr.next.prev = prev;
+                    }
+                    curr.next = null;
+                }
             }
         }
     }
+
 
 
 }
