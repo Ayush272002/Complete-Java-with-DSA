@@ -1,0 +1,1 @@
+check whether the linked list os circularly linked list or not
