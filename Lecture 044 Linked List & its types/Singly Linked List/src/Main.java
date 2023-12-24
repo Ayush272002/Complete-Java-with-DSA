@@ -6,9 +6,9 @@ public class Main {
         list.insertAtEnd(7);
         list.insertAtStart(3);
         list.insertAtPosition(1,22);
-        list.deleteAtPosition(1);
+        list.insertAtEnd(7);
+        list.print();
         list.deleteUsingValue(7);
-
         list.print();
         System.out.println("===========");
         System.out.println(list.getLength());
