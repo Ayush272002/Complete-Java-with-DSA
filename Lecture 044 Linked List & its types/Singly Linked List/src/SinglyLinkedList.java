@@ -44,6 +44,17 @@ public class SinglyLinkedList
             insertAtStart(data);
             return;
         }
+        if(position == getLength())
+        {
+            insertAtEnd(data);
+            return;
+        }
+
+        if(position > getLength())
+        {
+            System.out.println("invalid position so didnt add the data");
+            return;
+        }
 
         Node temp = head;
         for (int i = 1; i < position - 1; i++) {
