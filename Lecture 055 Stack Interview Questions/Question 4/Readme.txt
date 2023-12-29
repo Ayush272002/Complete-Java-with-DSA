@@ -1,0 +1,1 @@
+Insert an element at its bottom in a given stack and return the updated stack.

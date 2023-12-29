@@ -1,0 +1,1 @@
+Write a program to reverse a stack using recursion, without using any loop.
