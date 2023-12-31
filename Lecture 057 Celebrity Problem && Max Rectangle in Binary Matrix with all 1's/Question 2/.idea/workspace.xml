@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f13d7427-89f5-4daf-ae1a-2f0d01f52b52" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Question 1/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 1/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lecture 055 Stack Interview Questions/Question 8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lecture 055 Stack Interview Questions/Question 8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lecture 057 Largest Rectangle Area in Histogram/Question 1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lecture 057 Largest Rectangle Area in Histogram/Question 1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lecture 057 Largest Rectangle Area in Histogram/Question 1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lecture 057 Largest Rectangle Area in Histogram/Question 1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lecture 057 Largest Rectangle Area in Histogram/Question 1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lecture 057 Largest Rectangle Area in Histogram/Question 1/Question 1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lecture 057 Largest Rectangle Area in Histogram/Question 1/Readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lecture 057 Largest Rectangle Area in Histogram/Question 1/src/Solution.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2aHbiZ49XfEX1DiTdGlSt2bK8ya" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f13d7427-89f5-4daf-ae1a-2f0d01f52b52" name="Changes" comment="" />
+      <created>1703978579958</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703978579958</updated>
+      <workItem from="1703978580939" duration="2357000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
