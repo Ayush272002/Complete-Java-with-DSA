@@ -1,0 +1,1 @@
+if there is a space inside the array then the rear will point to the first available space inside the array
