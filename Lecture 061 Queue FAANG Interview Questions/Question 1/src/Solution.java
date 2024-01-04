@@ -14,3 +14,6 @@ public class Solution {
         return q;
     }
 }
+
+
+//space and time complexity O(n).
