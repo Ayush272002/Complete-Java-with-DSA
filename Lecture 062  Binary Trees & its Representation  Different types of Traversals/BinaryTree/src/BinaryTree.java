@@ -26,8 +26,6 @@ public class BinaryTree {
         System.out.println("Enter data for inserting in right of " + data);
         current.right = buildTreeHelper();
 
-        x.close();
-
         return current;
     }
 

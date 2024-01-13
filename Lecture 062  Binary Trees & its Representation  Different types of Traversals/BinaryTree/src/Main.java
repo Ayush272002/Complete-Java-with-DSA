@@ -21,7 +21,6 @@ public class Main {
     public static void main(String[] args) {
         BinaryTree bt = new BinaryTree();
 
-        /*
         //creating a tree
         bt.buildTree();
 
@@ -39,10 +38,10 @@ public class Main {
 
         //post order traversal
         System.out.println("Post Order Traversal is");
-        bt.postOrderTraversal();*/
+        bt.postOrderTraversal();
 
-        bt.buildTreeFromLevelOrder();
+       /* bt.buildTreeFromLevelOrder();
         bt.levelOrderTraversal();
-        System.out.println("Number of Leaf Nodes are "+bt.noOfLeafNodes());
+        System.out.println("Number of Leaf Nodes are "+bt.noOfLeafNodes());*/
     }
 }
