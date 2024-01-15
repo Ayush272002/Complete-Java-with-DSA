@@ -26,11 +26,11 @@ public class Main {
         System.out.println("Value present : "+ tree.searchInBstIteratively(val));*/
 
 
-        /*System.out.println("Min val is "+ tree.minVal().data);
+        System.out.println("Min val is "+ tree.minVal().data);
         System.out.println("Max val is "+tree.maxVal().data);
-        tree.inOrderPredecessorAndSuccessor(30);*/
+        tree.inOrderPredecessorAndSuccessor(30);
 
-        System.out.println("Printing after deletion");
+        /*System.out.println("Printing after deletion");
         tree.deleteFromBst(50);
         System.out.println("Printing the bst :");
         tree.levelOrderTraversal();
@@ -39,6 +39,6 @@ public class Main {
         System.out.println("Printing pre order");
         tree.preOrderTraversal();
         System.out.println("Printing post order");
-        tree.postOrderTraversal();
+        tree.postOrderTraversal();*/
     }
 }

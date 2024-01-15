@@ -228,10 +228,55 @@ public class BST {
         }
     }
 
+    private MyPair predecessorSuccessor(Node root, int key)
+    {
+        //find key
+        Node temp = root;
+        int pre = -1, suc =-1;
+
+        while(temp.data != key)
+        {
+            if(temp.data > key)
+            {
+                suc = temp.data;
+                temp = temp.left;
+            }
+            else
+            {
+                pre = temp.data;
+                temp = temp.right;
+            }
+        }
+
+        //predecessor and successor
+
+        //predecessor
+        Node leftTree = temp.left;
+        while(leftTree != null)
+        {
+            pre = leftTree.data;
+            leftTree = leftTree.right;
+        }
+
+        //successor
+        Node rightTree = temp.right;
+        while(rightTree != null)
+        {
+            suc = rightTree.data;;
+            rightTree = rightTree.left;
+        }
+
+        return new MyPair(pre, suc);
+    }
+
     public void inOrderPredecessorAndSuccessor(int val) {
-        inOrderPredecessorAndSuccessorHelper(root,val);
+        /*inOrderPredecessorAndSuccessorHelper(root,val);
         System.out.println("Pre is "+ pre);
-        System.out.println("Suc is "+ suc);
+        System.out.println("Suc is "+ suc);*/
+
+        MyPair mp = predecessorSuccessor(root,val);
+        System.out.println("Pre is "+ mp.first);
+        System.out.println("Suc is "+ mp.second);
     }
 
     private Node deleteFromBstHelper(Node root, int val)
