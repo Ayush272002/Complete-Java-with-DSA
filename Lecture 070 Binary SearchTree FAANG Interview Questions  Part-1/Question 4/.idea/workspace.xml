@@ -5,23 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67ce17ce-e592-494c-95e4-6a38805b36cf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Lecture 069 Binary Search Tree and its Implementation Insertion Deletion Searching a Node/src/MyPair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 3/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 3/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 3/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 3/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 3/Question 3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 3/Readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 3/src/MyPair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 3/src/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 3/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OptimisedSol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lecture 069 Binary Search Tree and its Implementation Insertion Deletion Searching a Node/src/BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lecture 069 Binary Search Tree and its Implementation Insertion Deletion Searching a Node/src/BST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lecture 069 Binary Search Tree and its Implementation Insertion Deletion Searching a Node/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lecture 069 Binary Search Tree and its Implementation Insertion Deletion Searching a Node/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lecture 071  Binary SearchTree FAANG Interview Questions  Part-2/Question 1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lecture 071  Binary SearchTree FAANG Interview Questions  Part-2/Question 1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lecture 071  Binary SearchTree FAANG Interview Questions  Part-2/Question 1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lecture 071  Binary SearchTree FAANG Interview Questions  Part-2/Question 1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lecture 071  Binary SearchTree FAANG Interview Questions  Part-2/Question 1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lecture 071  Binary SearchTree FAANG Interview Questions  Part-2/Question 1/Question 1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lecture 071  Binary SearchTree FAANG Interview Questions  Part-2/Question 1/src/TreeNode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,9 +28,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2azcJiNUQJ6Xh069vrGxC0pZ7Zk" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -49,20 +39,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -72,6 +62,7 @@
       <option name="presentableId" value="Default" />
       <updated>1705324779210</updated>
       <workItem from="1705324780290" duration="845000" />
+      <workItem from="1705327750035" duration="6000" />
     </task>
     <servers />
   </component>
