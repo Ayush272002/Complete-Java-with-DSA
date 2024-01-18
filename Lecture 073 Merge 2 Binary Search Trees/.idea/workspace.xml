@@ -4,204 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01d18dc5-e7f7-44d7-b91f-17181a854c3e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Lecture 071 Binary SearchTree FAANG Interview Questions  Part-1/Question 1/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 071 Binary SearchTree FAANG Interview Questions  Part-1/Question 1/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 071 Binary SearchTree FAANG Interview Questions  Part-1/Question 1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 071 Binary SearchTree FAANG Interview Questions  Part-1/Question 1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 071 Binary SearchTree FAANG Interview Questions  Part-1/Question 1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 071 Binary SearchTree FAANG Interview Questions  Part-1/Question 1/Question 1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 071 Binary SearchTree FAANG Interview Questions  Part-1/Question 1/Readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 071 Binary SearchTree FAANG Interview Questions  Part-1/Question 1/src/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 071 Binary SearchTree FAANG Interview Questions  Part-1/Question 1/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 071 Binary SearchTree FAANG Interview Questions  Part-1/Question 1/src/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 071 Binary SearchTree FAANG Interview Questions  Part-1/Question 2/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 071 Binary SearchTree FAANG Interview Questions  Part-1/Question 2/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 071 Binary SearchTree FAANG Interview Questions  Part-1/Question 2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 071 Binary SearchTree FAANG Interview Questions  Part-1/Question 2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 071 Binary SearchTree FAANG Interview Questions  Part-1/Question 2/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 071 Binary SearchTree FAANG Interview Questions  Part-1/Question 2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 071 Binary SearchTree FAANG Interview Questions  Part-1/Question 2/Question 0230.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 071 Binary SearchTree FAANG Interview Questions  Part-1/Question 2/Question 0230/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 071 Binary SearchTree FAANG Interview Questions  Part-1/Question 2/Question 0230/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 071 Binary SearchTree FAANG Interview Questions  Part-1/Question 2/Question 0230/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 071 Binary SearchTree FAANG Interview Questions  Part-1/Question 2/Question 0230/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 071 Binary SearchTree FAANG Interview Questions  Part-1/Question 2/Question 0230/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 071 Binary SearchTree FAANG Interview Questions  Part-1/Question 2/Question 0230/Question 0230.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 071 Binary SearchTree FAANG Interview Questions  Part-1/Question 2/Question 0230/Readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 071 Binary SearchTree FAANG Interview Questions  Part-1/Question 2/Question 0230/src/OptimisedSol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 071 Binary SearchTree FAANG Interview Questions  Part-1/Question 2/Question 0230/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 071 Binary SearchTree FAANG Interview Questions  Part-1/Question 2/Question 0230/src/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 071 Binary SearchTree FAANG Interview Questions  Part-1/Question 2/Readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 071 Binary SearchTree FAANG Interview Questions  Part-1/Question 2/src/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 071 Binary SearchTree FAANG Interview Questions  Part-1/Question 2/src/OptimisedSol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 071 Binary SearchTree FAANG Interview Questions  Part-1/Question 2/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 071 Binary SearchTree FAANG Interview Questions  Part-1/Question 3/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 071 Binary SearchTree FAANG Interview Questions  Part-1/Question 3/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 071 Binary SearchTree FAANG Interview Questions  Part-1/Question 3/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 071 Binary SearchTree FAANG Interview Questions  Part-1/Question 3/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 071 Binary SearchTree FAANG Interview Questions  Part-1/Question 3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 071 Binary SearchTree FAANG Interview Questions  Part-1/Question 3/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 071 Binary SearchTree FAANG Interview Questions  Part-1/Question 3/Question 3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 071 Binary SearchTree FAANG Interview Questions  Part-1/Question 3/Readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 071 Binary SearchTree FAANG Interview Questions  Part-1/Question 3/src/MyPair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 071 Binary SearchTree FAANG Interview Questions  Part-1/Question 3/src/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 071 Binary SearchTree FAANG Interview Questions  Part-1/Question 3/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 071 Binary SearchTree FAANG Interview Questions  Part-1/Question 4/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 071 Binary SearchTree FAANG Interview Questions  Part-1/Question 4/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 071 Binary SearchTree FAANG Interview Questions  Part-1/Question 4/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 071 Binary SearchTree FAANG Interview Questions  Part-1/Question 4/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 071 Binary SearchTree FAANG Interview Questions  Part-1/Question 4/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 071 Binary SearchTree FAANG Interview Questions  Part-1/Question 4/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 071 Binary SearchTree FAANG Interview Questions  Part-1/Question 4/Question 4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 071 Binary SearchTree FAANG Interview Questions  Part-1/Question 4/Readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 071 Binary SearchTree FAANG Interview Questions  Part-1/Question 4/src/OptimisedSol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 071 Binary SearchTree FAANG Interview Questions  Part-1/Question 4/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 071 Binary SearchTree FAANG Interview Questions  Part-1/Question 4/src/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 072  Binary SearchTree FAANG Interview Questions  Part-2/Question 1/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 072  Binary SearchTree FAANG Interview Questions  Part-2/Question 1/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 072  Binary SearchTree FAANG Interview Questions  Part-2/Question 1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 072  Binary SearchTree FAANG Interview Questions  Part-2/Question 1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 072  Binary SearchTree FAANG Interview Questions  Part-2/Question 1/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 072  Binary SearchTree FAANG Interview Questions  Part-2/Question 1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 072  Binary SearchTree FAANG Interview Questions  Part-2/Question 1/Question 1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 072  Binary SearchTree FAANG Interview Questions  Part-2/Question 1/Readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 072  Binary SearchTree FAANG Interview Questions  Part-2/Question 1/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 072  Binary SearchTree FAANG Interview Questions  Part-2/Question 1/src/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 072  Binary SearchTree FAANG Interview Questions  Part-2/Question 2/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 072  Binary SearchTree FAANG Interview Questions  Part-2/Question 2/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 072  Binary SearchTree FAANG Interview Questions  Part-2/Question 2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 072  Binary SearchTree FAANG Interview Questions  Part-2/Question 2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 072  Binary SearchTree FAANG Interview Questions  Part-2/Question 2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 072  Binary SearchTree FAANG Interview Questions  Part-2/Question 2/Question 2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 072  Binary SearchTree FAANG Interview Questions  Part-2/Question 2/Readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 072  Binary SearchTree FAANG Interview Questions  Part-2/Question 2/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 072  Binary SearchTree FAANG Interview Questions  Part-2/Question 2/src/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 072  Binary SearchTree FAANG Interview Questions  Part-2/Question 3/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 072  Binary SearchTree FAANG Interview Questions  Part-2/Question 3/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 072  Binary SearchTree FAANG Interview Questions  Part-2/Question 3/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 072  Binary SearchTree FAANG Interview Questions  Part-2/Question 3/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 072  Binary SearchTree FAANG Interview Questions  Part-2/Question 3/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 072  Binary SearchTree FAANG Interview Questions  Part-2/Question 3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 072  Binary SearchTree FAANG Interview Questions  Part-2/Question 3/Question 3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 072  Binary SearchTree FAANG Interview Questions  Part-2/Question 3/Readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 072  Binary SearchTree FAANG Interview Questions  Part-2/Question 3/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 072  Binary SearchTree FAANG Interview Questions  Part-2/Question 3/src/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 072  Binary SearchTree FAANG Interview Questions  Part-2/Question 4/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 072  Binary SearchTree FAANG Interview Questions  Part-2/Question 4/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 072  Binary SearchTree FAANG Interview Questions  Part-2/Question 4/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 072  Binary SearchTree FAANG Interview Questions  Part-2/Question 4/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 072  Binary SearchTree FAANG Interview Questions  Part-2/Question 4/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 072  Binary SearchTree FAANG Interview Questions  Part-2/Question 4/Question 4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 072  Binary SearchTree FAANG Interview Questions  Part-2/Question 4/Readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 072  Binary SearchTree FAANG Interview Questions  Part-2/Question 4/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 072  Binary SearchTree FAANG Interview Questions  Part-2/Question 4/src/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 70 AVL Trees Implementation From Binary Trees/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 70 AVL Trees Implementation From Binary Trees/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 70 AVL Trees Implementation From Binary Trees/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 70 AVL Trees Implementation From Binary Trees/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 70 AVL Trees Implementation From Binary Trees/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 70 AVL Trees Implementation From Binary Trees/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 70 AVL Trees Implementation From Binary Trees/Question 3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 70 AVL Trees Implementation From Binary Trees/Question 3/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 70 AVL Trees Implementation From Binary Trees/Question 3/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 70 AVL Trees Implementation From Binary Trees/Question 3/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 70 AVL Trees Implementation From Binary Trees/Question 3/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 70 AVL Trees Implementation From Binary Trees/Question 3/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 70 AVL Trees Implementation From Binary Trees/Question 3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 70 AVL Trees Implementation From Binary Trees/Question 3/Question 3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 70 AVL Trees Implementation From Binary Trees/Question 3/Readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 70 AVL Trees Implementation From Binary Trees/Question 3/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 70 AVL Trees Implementation From Binary Trees/Question 3/src/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 70 AVL Trees Implementation From Binary Trees/Readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 70 AVL Trees Implementation From Binary Trees/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture 70 AVL Trees Implementation From Binary Trees/src/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 070 Binary SearchTree FAANG Interview Questions  Part-1/Question 1/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 070 Binary SearchTree FAANG Interview Questions  Part-1/Question 1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 070 Binary SearchTree FAANG Interview Questions  Part-1/Question 1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 070 Binary SearchTree FAANG Interview Questions  Part-1/Question 1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 070 Binary SearchTree FAANG Interview Questions  Part-1/Question 1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 070 Binary SearchTree FAANG Interview Questions  Part-1/Question 1/Question 1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 070 Binary SearchTree FAANG Interview Questions  Part-1/Question 1/Readme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 070 Binary SearchTree FAANG Interview Questions  Part-1/Question 1/src/Node.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 070 Binary SearchTree FAANG Interview Questions  Part-1/Question 1/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 070 Binary SearchTree FAANG Interview Questions  Part-1/Question 1/src/Solution2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 070 Binary SearchTree FAANG Interview Questions  Part-1/Question 2/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 070 Binary SearchTree FAANG Interview Questions  Part-1/Question 2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 070 Binary SearchTree FAANG Interview Questions  Part-1/Question 2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 070 Binary SearchTree FAANG Interview Questions  Part-1/Question 2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 070 Binary SearchTree FAANG Interview Questions  Part-1/Question 2/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 070 Binary SearchTree FAANG Interview Questions  Part-1/Question 2/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 070 Binary SearchTree FAANG Interview Questions  Part-1/Question 2/Question 0230.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 070 Binary SearchTree FAANG Interview Questions  Part-1/Question 2/Question 0230/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 070 Binary SearchTree FAANG Interview Questions  Part-1/Question 2/Question 0230/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 070 Binary SearchTree FAANG Interview Questions  Part-1/Question 2/Question 0230/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 070 Binary SearchTree FAANG Interview Questions  Part-1/Question 2/Question 0230/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 070 Binary SearchTree FAANG Interview Questions  Part-1/Question 2/Question 0230/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 070 Binary SearchTree FAANG Interview Questions  Part-1/Question 2/Question 0230/Question 0230.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 070 Binary SearchTree FAANG Interview Questions  Part-1/Question 2/Question 0230/Readme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 070 Binary SearchTree FAANG Interview Questions  Part-1/Question 2/Question 0230/src/OptimisedSol.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 070 Binary SearchTree FAANG Interview Questions  Part-1/Question 2/Question 0230/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 070 Binary SearchTree FAANG Interview Questions  Part-1/Question 2/Question 0230/src/TreeNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 070 Binary SearchTree FAANG Interview Questions  Part-1/Question 2/Readme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 070 Binary SearchTree FAANG Interview Questions  Part-1/Question 2/src/Node.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 070 Binary SearchTree FAANG Interview Questions  Part-1/Question 2/src/OptimisedSol.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 070 Binary SearchTree FAANG Interview Questions  Part-1/Question 2/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 070 Binary SearchTree FAANG Interview Questions  Part-1/Question 3/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 070 Binary SearchTree FAANG Interview Questions  Part-1/Question 3/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 070 Binary SearchTree FAANG Interview Questions  Part-1/Question 3/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 070 Binary SearchTree FAANG Interview Questions  Part-1/Question 3/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 070 Binary SearchTree FAANG Interview Questions  Part-1/Question 3/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 070 Binary SearchTree FAANG Interview Questions  Part-1/Question 3/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 070 Binary SearchTree FAANG Interview Questions  Part-1/Question 3/Question 3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 070 Binary SearchTree FAANG Interview Questions  Part-1/Question 3/Readme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 070 Binary SearchTree FAANG Interview Questions  Part-1/Question 3/src/MyPair.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 070 Binary SearchTree FAANG Interview Questions  Part-1/Question 3/src/Node.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 070 Binary SearchTree FAANG Interview Questions  Part-1/Question 3/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 070 Binary SearchTree FAANG Interview Questions  Part-1/Question 4/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 070 Binary SearchTree FAANG Interview Questions  Part-1/Question 4/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 070 Binary SearchTree FAANG Interview Questions  Part-1/Question 4/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 070 Binary SearchTree FAANG Interview Questions  Part-1/Question 4/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 070 Binary SearchTree FAANG Interview Questions  Part-1/Question 4/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 070 Binary SearchTree FAANG Interview Questions  Part-1/Question 4/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 070 Binary SearchTree FAANG Interview Questions  Part-1/Question 4/Question 4.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 070 Binary SearchTree FAANG Interview Questions  Part-1/Question 4/Readme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 070 Binary SearchTree FAANG Interview Questions  Part-1/Question 4/src/OptimisedSol.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 070 Binary SearchTree FAANG Interview Questions  Part-1/Question 4/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 070 Binary SearchTree FAANG Interview Questions  Part-1/Question 4/src/TreeNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 071  Binary SearchTree FAANG Interview Questions  Part-2/Question 1/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 071  Binary SearchTree FAANG Interview Questions  Part-2/Question 1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 071  Binary SearchTree FAANG Interview Questions  Part-2/Question 1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 071  Binary SearchTree FAANG Interview Questions  Part-2/Question 1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 071  Binary SearchTree FAANG Interview Questions  Part-2/Question 1/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 071  Binary SearchTree FAANG Interview Questions  Part-2/Question 1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 071  Binary SearchTree FAANG Interview Questions  Part-2/Question 1/Question 1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 071  Binary SearchTree FAANG Interview Questions  Part-2/Question 1/Readme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 071  Binary SearchTree FAANG Interview Questions  Part-2/Question 1/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 071  Binary SearchTree FAANG Interview Questions  Part-2/Question 1/src/TreeNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 071  Binary SearchTree FAANG Interview Questions  Part-2/Question 2/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 071  Binary SearchTree FAANG Interview Questions  Part-2/Question 2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 071  Binary SearchTree FAANG Interview Questions  Part-2/Question 2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 071  Binary SearchTree FAANG Interview Questions  Part-2/Question 2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 071  Binary SearchTree FAANG Interview Questions  Part-2/Question 2/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 071  Binary SearchTree FAANG Interview Questions  Part-2/Question 2/Question 2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 071  Binary SearchTree FAANG Interview Questions  Part-2/Question 2/Readme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 071  Binary SearchTree FAANG Interview Questions  Part-2/Question 2/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 071  Binary SearchTree FAANG Interview Questions  Part-2/Question 2/src/TreeNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 071  Binary SearchTree FAANG Interview Questions  Part-2/Question 3/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 071  Binary SearchTree FAANG Interview Questions  Part-2/Question 3/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 071  Binary SearchTree FAANG Interview Questions  Part-2/Question 3/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 071  Binary SearchTree FAANG Interview Questions  Part-2/Question 3/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 071  Binary SearchTree FAANG Interview Questions  Part-2/Question 3/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 071  Binary SearchTree FAANG Interview Questions  Part-2/Question 3/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 071  Binary SearchTree FAANG Interview Questions  Part-2/Question 3/Question 3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 071  Binary SearchTree FAANG Interview Questions  Part-2/Question 3/Readme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 071  Binary SearchTree FAANG Interview Questions  Part-2/Question 3/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 071  Binary SearchTree FAANG Interview Questions  Part-2/Question 3/src/TreeNode.java" beforeDir="false" />
-    </list>
+    <list default="true" id="01d18dc5-e7f7-44d7-b91f-17181a854c3e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -217,27 +20,27 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2b5xo84LzhrtL2BoTU8tuIhZ6WI" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -247,6 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1705518913071</updated>
       <workItem from="1705518914069" duration="2118000" />
+      <workItem from="1705578263976" duration="9000" />
     </task>
     <servers />
   </component>
