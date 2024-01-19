@@ -1,3 +1,6 @@
+import java.util.Comparator;
+import java.util.PriorityQueue;
+
 public class Main {
     public static void main(String[] args) {
         Heap h = new Heap();
@@ -25,5 +28,30 @@ public class Main {
             System.out.print(arr[i] + " ");
         }
         System.out.println();
+
+        //heapsort
+        h.heapSort(arr, n);
+
+        System.out.println("Printing the sorted array");
+
+        for (int i = 1; i <= n; i++) {
+            System.out.print(arr[i] + " ");
+        }
+        System.out.println();
+
+
+        System.out.println("Using priority queue");
+
+        //Default is min - heap to implement max heap we need to add this  Comparator.reverseOrder()
+        PriorityQueue<Integer> pq = new PriorityQueue<>(Comparator.reverseOrder());
+        pq.add(4);
+        pq.add(2);
+        pq.add(5);
+        pq.add(3);
+
+        System.out.println("Element at top "+ pq.peek());
+        pq.poll();
+        System.out.println("Element at top "+ pq.peek());
+        
     }
 }

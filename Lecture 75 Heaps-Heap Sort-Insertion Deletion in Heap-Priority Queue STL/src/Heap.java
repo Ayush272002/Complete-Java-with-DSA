@@ -88,10 +88,10 @@ public class Heap
         int left = 2*i;
         int right = 2*i + 1;
 
-        if(left < n && arr[largest] < arr[left])
+        if(left <= n && arr[largest] < arr[left]) // <= cause 1 based indexing if it was 0 based then <
             largest = left;
 
-        if(right < n && arr[largest] < arr[right])
+        if(right <= n && arr[largest] < arr[right])
             largest = right;
 
         if(largest != i)
@@ -145,5 +145,24 @@ public class Heap
             System.out.print(arr[i] + " ");
         }
         System.out.println();
+    }
+
+    public void heapSort(int[] arr, int n)
+    {
+        int size = n;
+
+        while(size > 1)
+        {
+            //step 1 : swap
+            int temp = arr[size];
+            arr[size] = arr[1];
+            arr[1] = temp;
+
+
+            size--;
+
+            //step 2
+            heapify(arr,size,1);
+        }
     }
 }

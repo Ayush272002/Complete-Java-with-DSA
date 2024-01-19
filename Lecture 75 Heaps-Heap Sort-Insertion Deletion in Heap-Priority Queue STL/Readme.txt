@@ -29,3 +29,5 @@ Time complexity - O(log n)
 putting a node to its correct position is the work of Heapify function.
 Time complexity of heapify - O(log n)
 Time complexity of building an heap - O(n)
+
+Time complexity for heap sort - O(n log n)
