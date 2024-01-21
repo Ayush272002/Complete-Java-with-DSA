@@ -18,7 +18,9 @@ public class Main {
         int[] arr = {-1, 54, 53, 55, 52 , 50};
         int n = 5; //-1 is not considered
 
-        for (int i = n/2; i > 0; i--) { //leaf nodes are forming correct heaps no need to check them
+        for (int i = n/2; i > 0; i--) {
+            //leaf nodes are forming correct heaps no need to check them
+            //if it was 0 based indexing then n/2 - 1, i>=0
             h.heapify(arr, n, i);
         }
 
