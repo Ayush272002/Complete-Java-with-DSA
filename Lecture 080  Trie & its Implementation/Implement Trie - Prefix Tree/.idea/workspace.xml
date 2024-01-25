@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="37d733ae-0b3d-4e0e-8b0c-0bb7eaedcba7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Lecture 079 Hashmaps/Hashmap implementation/src/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lecture 079 Hashmaps/Hashmap implementation/src/mapIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lecture 079 Hashmaps/Question 1/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lecture 079 Hashmaps/Question 1/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TrieNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Trie Implementation/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Trie Implementation/src/Trie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Trie Implementation/src/TrieNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lecture 70 AVL Trees Implementation From Binary Trees/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lecture 70 AVL Trees Implementation From Binary Trees/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lecture 70 AVL Trees Implementation From Binary Trees/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lecture 70 AVL Trees Implementation From Binary Trees/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lecture 70 AVL Trees Implementation From Binary Trees/Question 3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lecture 70 AVL Trees Implementation From Binary Trees/Question 3/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lecture 079 Hashmaps/Hashmap implementation/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lecture 70 AVL Trees Implementation From Binary Trees/Question 3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lecture 079 Hashmaps/Hashmap implementation/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lecture 70 AVL Trees Implementation From Binary Trees/Question 3/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lecture 079 Hashmaps/Hashmap implementation/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lecture 70 AVL Trees Implementation From Binary Trees/Question 3/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lecture 70 AVL Trees Implementation From Binary Trees/Question 3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lecture 079 Hashmaps/Hashmap implementation/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lecture 70 AVL Trees Implementation From Binary Trees/Question 3/Question 3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lecture 079 Hashmaps/Hashmap implementation/Hashmap implementation.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lecture 70 AVL Trees Implementation From Binary Trees/Question 3/Readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lecture 70 AVL Trees Implementation From Binary Trees/Question 3/src/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lecture 70 AVL Trees Implementation From Binary Trees/Question 3/src/TreeNode.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2bPL1e4STs8FoGstyHoRHZZDl5U" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37d733ae-0b3d-4e0e-8b0c-0bb7eaedcba7" name="Changes" comment="" />
+      <created>1706111554163</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706111554163</updated>
+      <workItem from="1706111555143" duration="1135000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
