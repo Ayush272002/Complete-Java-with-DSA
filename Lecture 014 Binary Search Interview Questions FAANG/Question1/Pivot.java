@@ -7,7 +7,7 @@ public class Pivot {
                if(arr[mid] >= arr[0])
                     s= mid+1;
                else
-                    s= mid;
+                    e = mid-1;
 
                mid = s+(e-s)/2;
           }

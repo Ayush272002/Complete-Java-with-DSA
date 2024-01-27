@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aadb61cd-e633-40ab-a012-b7f0db2d212c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Lecture 062  Binary Trees &amp; its Representation  Different types of Traversals/.idea/Lecture 062  Binary Trees &amp; its Representation  Different types of Traversals.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture 082 -  Implement a Phone Directory Using Trie/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture 082 -  Implement a Phone Directory Using Trie/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture 082 -  Implement a Phone Directory Using Trie/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture 082 -  Implement a Phone Directory Using Trie/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture 082 -  Implement a Phone Directory Using Trie/Lecture 082 -  Implement a Phone Directory Using Trie.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture 082 -  Implement a Phone Directory Using Trie/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture 082 -  Implement a Phone Directory Using Trie/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture 082 -  Implement a Phone Directory Using Trie/src/Trie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture 082 -  Implement a Phone Directory Using Trie/src/TrieNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture 080  Trie &amp; its Implementation/Trie Implementation/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture 080  Trie &amp; its Implementation/Trie Implementation/.idea/misc.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2bXXxhaNznGeGUuzx2ZrNoa9osm" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aadb61cd-e633-40ab-a012-b7f0db2d212c" name="Changes" comment="" />
+      <created>1706362645705</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706362645705</updated>
+      <workItem from="1706362646667" duration="1695000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
