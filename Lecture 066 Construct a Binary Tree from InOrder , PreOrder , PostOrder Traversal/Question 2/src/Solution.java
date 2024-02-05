@@ -18,8 +18,7 @@ class Solution
     //Function to return a tree created from postorder and inorder traversals.
     Node buildTree(int[] in, int[] post, int n) {
         // Your code here
-        if (in == null || post == null || in.length !=
-                post.length)
+        if (in == null || post == null || in.length != post.length)
             return null;
         HashMap<Integer, Integer> hm = new HashMap<Integer,Integer>();
         for (int i=0;i<in.length;++i)
