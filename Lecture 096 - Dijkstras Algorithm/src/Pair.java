@@ -1,7 +1,7 @@
 class Pair implements Comparable<Pair>
 {
-    int first; //distance
-    int second; // node value
+    int first; //node
+    int second;  //weight
 
     Pair(int first, int second)
     {

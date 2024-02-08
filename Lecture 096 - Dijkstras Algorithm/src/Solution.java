@@ -15,8 +15,8 @@ public class Solution {
             int v = vec.get(i).get(1);
             int w = vec.get(i).get(2);
 
-            adj.computeIfAbsent(u, key -> new ArrayList<>()).add(new Pair(w, v));
-            adj.computeIfAbsent(v, key -> new ArrayList<>()).add(new Pair(w, u));
+            adj.computeIfAbsent(u, key -> new ArrayList<>()).add(new Pair(v, w));
+            adj.computeIfAbsent(v, key -> new ArrayList<>()).add(new Pair(u, w));
         }
 
         ArrayList<Integer> distance = new ArrayList<>(Collections.nCopies(vertices, Integer.MAX_VALUE));
@@ -35,13 +35,13 @@ public class Solution {
             //traverse on neighbours
             for(Pair neighbours : adj.getOrDefault(topNode,Collections.emptyList()))
             {
-                if(nodeDistance + neighbours.first < distance.get(neighbours.second))
+                if(nodeDistance + neighbours.second < distance.get(neighbours.first))
                 {
                     // Update distance
-                    distance.set(neighbours.second, nodeDistance + neighbours.first);
+                    distance.set(neighbours.first, nodeDistance + neighbours.second);
 
                     // Insert into the heap
-                    minHeap.add(new Pair(distance.get(neighbours.second), neighbours.second));
+                    minHeap.add(new Pair(distance.get(neighbours.first), neighbours.first));
                 }
 
             }
