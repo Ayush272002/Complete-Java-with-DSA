@@ -8,7 +8,7 @@ public class Main
         disc.set(node,timer);
         low.set(node,timer);
         timer++;
-        int child = 0;
+        //int child = 0;
 
         for(Integer neighbour : adj.get(node))
         {
@@ -20,11 +20,15 @@ public class Main
                 low.set(node, Math.min(low.get(node), low.get(neighbour)));
 
                 //check articulation point
-                if(low.get(neighbour) >= disc.get(node) && parent != -1)
+                if(low.get(neighbour) > disc.get(node))
                 {
                     ap.set(node,1);
                 }
-                child++;
+                /*if(low.get(neighbour) >= disc.get(node) && parent != -1)
+                {
+                    ap.set(node,1);
+                }*/
+                //child++;
             }
             else
             {
@@ -33,10 +37,12 @@ public class Main
             }
         }
 
-        if(parent == -1 && child > 1)
+        /*if(parent == -1 && child > 1)
         {
             ap.set(node,1);
-        }
+        }*/
+
+        //the commented condition is rarely used
     }
     public static void main(String[] args)
     {
@@ -86,6 +92,8 @@ public class Main
 }
 
 /*
+
+Tarjan's Algorithm
 Time complexity =  O(n+e)
 Space complexity = O(n)
 

@@ -28,7 +28,6 @@ class Solution {
 
         //Do BFS
         int count = 0;
-        ArrayList<Integer> ans = new ArrayList<>();
 
         while(!q.isEmpty())
         {
