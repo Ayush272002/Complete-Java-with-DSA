@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fc52c1a3-a9ec-467e-a70f-13719666e7b4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Lecture 103 - Bipartite Graphs/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture 103 - Bipartite Graphs/src/SolutionUsingBFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture 103 - Bipartite Graphs/src/SolutionUsingDFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture 105 - Introduction to Dynamic Programming_Memoization_Tabulation_Space Optimisation/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture 105 - Introduction to Dynamic Programming_Memoization_Tabulation_Space Optimisation/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture 105 - Introduction to Dynamic Programming_Memoization_Tabulation_Space Optimisation/src/SolutionUsingBottomUpApproach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture 105 - Introduction to Dynamic Programming_Memoization_Tabulation_Space Optimisation/src/SolutionUsingTopDownApproach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OptimalSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SolutionUsingBottomUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SolutionUsingTopDown.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2ceNFC0zT4I3NFPo8aTJ3hwZSO6" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc52c1a3-a9ec-467e-a70f-13719666e7b4" name="Changes" comment="" />
+      <created>1708467978285</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708467978285</updated>
+      <workItem from="1708467979281" duration="1846000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
