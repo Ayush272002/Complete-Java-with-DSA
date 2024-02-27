@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01d18dc5-e7f7-44d7-b91f-17181a854c3e" name="Changes" comment="">
+    <list default="true" id="c5d35d9a-b083-4873-8a6b-c4db67c61a8b" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../Lecture 093 - Cycle Detection In A Directed Graph/Cycle Detection In A Directed Graph Using DFS/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Lecture 093 - Cycle Detection In A Directed Graph/Cycle Detection In A Directed Graph Using DFS/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Lecture 093 - Cycle Detection In A Directed Graph/Cycle Detection In A Directed Graph Using DFS/.idea/modules.xml" afterDir="false" />
@@ -99,6 +99,21 @@
       <change afterPath="$PROJECT_DIR$/../Lecture 102 - Graph Questions/Question 11/Question 11.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Lecture 102 - Graph Questions/Question 11/Readme.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Lecture 102 - Graph Questions/Question 11/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture 111 - Count derangements/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture 111 - Count derangements/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture 111 - Count derangements/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture 111 - Count derangements/Lecture 111 - Count derangements.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture 111 - Count derangements/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture 111 - Count derangements/src/BottomUpApproach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture 111 - Count derangements/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture 111 - Count derangements/src/SolutionWithRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture 111 - Count derangements/src/TopDownApproach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BottomUpApproach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OptimisedSol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SolutionRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TopDownApproach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture 073 Merge 2 Binary Search Trees/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture 073 Merge 2 Binary Search Trees/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lecture 093 - Cycle Detection in Directed Graph Using BFS/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lecture 093 - Cycle Detection in Directed Graph Using BFS/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lecture 093 - Cycle Detection in Directed Graph Using BFS/.idea/misc.xml" beforeDir="false" />
@@ -182,10 +197,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 7
-}</component>
-  <component name="ProjectId" id="2b5xo84LzhrtL2BoTU8tuIhZ6WI" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2cy9UuIJgjel5U4dwrRMyeqgcP3" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -194,7 +212,6 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -205,25 +222,15 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
-      </set>
-    </attachedChunks>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="01d18dc5-e7f7-44d7-b91f-17181a854c3e" name="Changes" comment="" />
-      <created>1705518913071</created>
+      <changelist id="c5d35d9a-b083-4873-8a6b-c4db67c61a8b" name="Changes" comment="" />
+      <created>1709072970731</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1705518913071</updated>
-      <workItem from="1705518914069" duration="2118000" />
-      <workItem from="1705578263976" duration="9000" />
-      <workItem from="1706990024584" duration="15000" />
-      <workItem from="1708953777056" duration="31000" />
+      <updated>1709072970731</updated>
+      <workItem from="1709072971746" duration="1669000" />
     </task>
     <servers />
   </component>
