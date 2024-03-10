@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53f783c4-8a22-42b7-9120-6f6b6dc1082e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Lecture 118 - Min Score Triangulation of Polygon/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lecture 118 - Min Score Triangulation of Polygon/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lecture 118 - Min Score Triangulation of Polygon/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lecture 118 - Min Score Triangulation of Polygon/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lecture 118 - Min Score Triangulation of Polygon/Lecture 118 - Min Score Triangulation of Polygon.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lecture 118 - Min Score Triangulation of Polygon/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lecture 118 - Min Score Triangulation of Polygon/src/BottomUpApproach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lecture 118 - Min Score Triangulation of Polygon/src/SolutionUisngRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lecture 118 - Min Score Triangulation of Polygon/src/TopDownApproach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lecture 119 - Minimum Sideways Jump LeetCode/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lecture 119 - Minimum Sideways Jump LeetCode/src/BottomUpApproach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lecture 119 - Minimum Sideways Jump LeetCode/src/OptimalSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lecture 119 - Minimum Sideways Jump LeetCode/src/SolutionUsingRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lecture 119 - Minimum Sideways Jump LeetCode/src/TopDownApproach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Longest Increasing Subsequence/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Longest Increasing Subsequence/src/BottomUpApproach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Longest Increasing Subsequence/src/OptimalSolUSingBinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Longest Increasing Subsequence/src/OptimisedSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Longest Increasing Subsequence/src/SolutionUsingRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Longest Increasing Subsequence/src/TopDownApproach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2dTTgIR3ELEAUxZz9koMduKpty1" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ayush/OneDrive/Desktop/University/Complete-Java-with-DSA/Lecture 120 - Longest Increasing Subsequence + Russian Doll/Russian Doll",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ayush\OneDrive\Desktop\University\Complete-Java-with-DSA\Lecture 120 - Longest Increasing Subsequence + Russian Doll\Russian Doll" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53f783c4-8a22-42b7-9120-6f6b6dc1082e" name="Changes" comment="" />
+      <created>1710031178447</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710031178447</updated>
+      <workItem from="1710031179551" duration="24000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
