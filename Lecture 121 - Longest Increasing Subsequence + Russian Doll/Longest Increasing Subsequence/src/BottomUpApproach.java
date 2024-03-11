@@ -23,7 +23,7 @@ public class BottomUpApproach
             }
         }
 
-        return dp[0][0 ];
+        return dp[0][0];
     }
     public int lengthOfLIS(int[] nums)
     {
