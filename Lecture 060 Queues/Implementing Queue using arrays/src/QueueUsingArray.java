@@ -6,7 +6,7 @@ public class QueueUsingArray {
 
     public QueueUsingArray(int size)
     {
-        this .size = size;
+        this.size = size;
         arr = new int[size];
         front = 0;
         rear = 0;
